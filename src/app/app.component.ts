@@ -16,7 +16,6 @@ export class AppComponent {
         
       }
     }else{
-      this.navbg = {'background-color' : '#000000'}
     }
   }
 }
